@@ -36,7 +36,7 @@ figcaption {
 footer {
   text-align: center;
   width: 100%;
-  background-color: red;
+  background: red;
 }
 
 #details > div {
